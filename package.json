@@ -1,6 +1,6 @@
 {
   "name": "my-first-react-library-by-bran",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/bundle.js",
   "description": "my first react library",
   "keywords": [
